@@ -1,6 +1,8 @@
 ## Put comments here that give an overall description of what your
 ## functions do
+
 ## Submission by Connor Lenio. Email: cojamalo@gmail.com
+
 ## The following functions create a special matrix object that serves as a cache for a matrix and its inverse. The functions manage both the storage and the retrieval of matrix data from the special matrix object once the special object is created as well as the calculation of the inverse matrix.
 
 ## Note: For the functions to work as expected, first initalize an instance of the special matrix object woth makeChaceMatrix by storing the function to a variable, such as my_cache_matrix <- makeCacheMatrix().
